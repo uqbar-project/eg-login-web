@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "dependencies": {
-    "node-sass": "^3.3.2"
+    "node-sass": "^4.9.3"
   },
   "scripts": {
     "start": " node node_modules/node-sass/bin/node-sass scss/main.scss -o css/ && node node_modules/node-sass/bin/node-sass -w -r scss/main.scss -o css/",
